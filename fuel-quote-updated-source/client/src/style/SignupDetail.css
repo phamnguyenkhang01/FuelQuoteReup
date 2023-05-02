@@ -1,0 +1,22 @@
+.main {
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.innerDiv_ {
+  background-color: white;
+  border: 1px #dadce0 solid;
+  border-radius: 0.5vw;
+  width: 60vw;
+  margin-top: 4vh;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.innerDiv_ div h2 {
+  text-align: center;
+}
+
+.btn_ {
+  width: 40vw;
+}

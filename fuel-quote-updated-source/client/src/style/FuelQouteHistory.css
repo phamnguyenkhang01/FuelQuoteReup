@@ -1,0 +1,21 @@
+.historyMain {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.table__ {
+  width: 80vw;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  padding: 2vw 2vw 2vw 2vw;
+}
+
+.fuelhistoryheading {
+  padding: 0 0 2vh 0;
+}
+
+.total {
+  font-size: 28px;
+}

@@ -1,0 +1,60 @@
+.main_container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.innerContainer {
+  width: 60vw;
+  height: 80vh;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 24vw;
+}
+
+.link {
+  padding-top: 13vh;
+}
+
+.link_ {
+  color: black;
+}
+
+.link_:hover {
+  color: rgb(56, 55, 55);
+}
+
+.form-label {
+  padding-top: 3vh;
+}
+
+.btn {
+  margin-top: 3vh;
+  min-width: 12vh;
+}
+
+.checkBox {
+  margin-top: 2vh;
+}
+
+.form-check-label {
+  padding-left: 16px;
+}
+
+.otherLoginsDiv {
+  padding-top: 8vh;
+}
+
+.icons {
+  margin-left: 0.2vw;
+  width: 30px;
+  height: 30px;
+}
+
+.firstIcon {
+  margin-left: 0.8vw;
+}
